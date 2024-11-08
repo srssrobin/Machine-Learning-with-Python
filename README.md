@@ -3,7 +3,7 @@ Machine Learning with Python
 
 Topics:
 1. Linear Regression
-2. Multivariate Regression
+2. Multiple Linear Regression
 3. Gradient Descent Algorithm
 4. Dummy Variable Regression
 5. Train-Test Split
